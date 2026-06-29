@@ -1,4 +1,4 @@
-# 
+# Instantané AI Sentiment Analysis for Social Media scripts. Avec apprentissage par transfert et intégration de chatbot — optimisé pour des performances maximales.
 
 
 
